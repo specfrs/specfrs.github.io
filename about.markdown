@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-ProjectVW.com 
+SpecFRS.com 
 
-1973 VW Super Beetle
+2016 Scion FR-S
