@@ -3,8 +3,12 @@ layout: page
 title: About SpecFRS.com
 permalink: /about
 comments: false
+redirect_from: 
+  - "/About"
+  - "/Results"
 ---
 
+{% picture jumbotron.jpg %}
 A 2016 Scion FR-S campaigned by [Chris Hammond](https://www.chrishammond.com)
 
 We've had a variety of success with the car. Here are some results.

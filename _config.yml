@@ -6,7 +6,7 @@ logo: 'assets/images/Logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
 google_analytics: 'UA-69145-47'
-disqus: 
+disqus: specfrs
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
