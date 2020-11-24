@@ -2,8 +2,8 @@
 name: "SpecFRS.com"
 title: "SpecFRS.com - Solo Spec Coupe 2016 Scion FR-S"
 description: "2016 Scion FR-S campaigning in the SCCA Solo Spec Coupe autocross class."
-logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-69145-47'
 disqus: 
