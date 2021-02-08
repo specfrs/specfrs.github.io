@@ -10,7 +10,7 @@ disqus: specfrs
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-
+url: 'https://www.specfrs.com/'
 # Authors
 authors:
   chris:
