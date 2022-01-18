@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Autocross Accident and Why You Need Autocross Insurance
-date: '2022-01-18T15:30:15+00:00'
+title: Autocross Crash and Why You Need Autocross Insurance
+date: '2022-01-18T19:30:15+00:00'
 permalink: autocross-accident-why-you-need-autocross-insurance
 image: 6-13-2021/side2.jpg
-categories: [ Autocross, FR-S, SSC, Setup, Accident  ]
+categories: [ Autocross, FR-S, SSC, Setup, Accident ]
 featured: true
 ---
 Hello there, long time no see.... Where has SpecFRS gone? Well here's the story of how my autocross car came to a very sad demise, and a couple of tips for you on how to not have it happen to yourself.
 
 First and foremost: Look into Autocross insurance. Lockton Motorsports provides insurance options that cover cars DURING autocross events, you should definitely [check them out](https://locktonmotorsports.com/autocross-off-track/). It is very likely that you normal street car insurance policy will NOT cover you, and you asking them if they do may even cause red flags to be raised. I did NOT have autocross insurance on my 2016 Scion FR-S, even though I had looked into it a couple of weeks before the incident, I didn't pull the trigger (if memory serves, it was like $225 for the year for my car), and would have likely made 2021 not be near as bad as it ended up. 
 
-### I will not autocross a car again if it doesn't have autocross insurance, I don't car who owns the car, lesson (hard) learned.
+### I will not autocross a car again if it doesn't have autocross insurance, I don't care who owns the car, lesson (hard) learned.
 
-So what happened? Well, this incident occurred at The Family Arena in St. Charles, MO this summer. I had taken my third run and put down a scorcher, my codriver went out and took his third or fourth run (don't recall). I was standing next to a buddy of mine trying to watch the course when I saw the car get tail happy, due to where I was standing in grid I couldn't really see the car/course at that point other than the top. The car came to a stop and I thought, oh he just lost control and stopped. Shortly there after I heard a request for any first responders over the PA, I immediately knew something was wrong. I ran over to where the car was stopped, as I was on my way over I saw a course worker picking something up, I assumed it was a GoPro that had fallen off the car.
+So what happened? Well, this incident occurred at The Family Arena in St. Charles, MO this summer. I had taken my third run and put down a scorcher, my codriver went out and took his third or fourth run (don't recall). I was standing next to a buddy of mine trying to watch the run when I saw the car get tail happy, due to where I was standing in grid I couldn't really see the car/course at that point other than the top. The car came to a stop and I thought, "oh he just lost control and stopped". Shortly there after I heard a request for any first responders over the PA, I immediately knew something was wrong. I ran over to where the car was stopped, as I was on my way over I saw a course worker picking something up, I assumed it was a GoPro that had fallen off the car.
 
 It wasn't a GoPro, it was the passenger mirror, or parts of it.
 
@@ -23,7 +23,7 @@ From there we started looking at the car.
 
 The car had impacted a light pole in the parking lot, scraping down the passenger side of the FR-S. The damage started at the front fender and went all the way back to the quarter panel. The majority of the damage was the passenger door, it was pushed in quit a bit, and didn't look like it would open. The car would start and drive, so I got in and drove it outside of the course area. The wheel was definitely out of alignment, and had a LOT more play than it should.
 
-{% picture 6-13-2021/side1.jpg %}
+{% picture 6-13-2021/side.jpg %}
 
 The side curtain, and passenger seat airbags deployed. There was glass everywhere, while the window was down, in the door, it had enough of an impact that the glass there, and in the mirror, went everywhere. Getting into the car you had to be careful to avoid setting your hand down on something and getting yourself cut up.
 
