@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autocross Crash and Why You Need Autocross Insurance
-date: '2022-01-18T19:30:15+00:00'
+date: '2022-01-19T23:30:15+00:00'
 permalink: autocross-accident-why-you-need-autocross-insurance
 image: 6-13-2021/side2.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
@@ -25,13 +25,13 @@ The car had impacted a light pole in the parking lot, scraping down the passenge
 
 {% picture 6-13-2021/side.jpg %}
 
-The side curtain, and passenger seat airbags deployed. There was glass everywhere, while the window was down, in the door, it had enough of an impact that the glass there, and in the mirror, went everywhere. Getting into the car you had to be careful to avoid setting your hand down on something and getting yourself cut up.
+The side curtain and passenger seat airbags deployed. There was glass everywhere, while the window was down, in the door, it had enough of an impact that the glass from the door and in the mirror, went everywhere. Getting into the car you had to be careful to avoid setting your hand down on something and getting yourself cut up.
 
 {% picture 6-13-2021/pole.jpg %}
 
 {% picture 6-13-2021/pole2.jpg %}
 
-After parking the car I started trying to assess the situation. We threw a jack under it and removed the right front wheel. The wheel had some damage to it, after removal I found that the tie rod bolt was bent about 45 degrees. At this point I figured there was no way to safely drive the car home, so I began to figure out how to get it home. I called my insurance to get roadside assistance to pick it up, but ultimately a friend was driving through town with an empty trailer and he hauled the car down to Solo Peformance Specialties for me Sunday evening. 
+After parking the car I started trying to assess the situation. We threw a jack under it and removed the right front wheel. The wheel had some damage to it, after removal I found that the tie rod bolt was bent about 45 degrees. At this point I figured there was no way to safely drive the car home, so I began to figure out how to get it home. I called my insurance to get roadside assistance to pick it up, but ultimately a friend was driving through town with an empty trailer and he hauled the car down to Solo Peformance Specialties for me that evening. 
 
 Later that week I replaced the tie rod end, that helped bring the wheel back into some version of alignment, but not 100%. I ended up driving the car home to my house from Solo Performance a week or two later and parked it in the garage.
 
