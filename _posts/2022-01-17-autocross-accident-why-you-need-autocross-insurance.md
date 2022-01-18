@@ -7,6 +7,9 @@ image: 6-13-2021/side2.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
 featured: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKobReKzpYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Hello there, long time no see.... Where has SpecFRS gone? Well here's the story of how my autocross car came to a very sad demise, and a couple of tips for you on how to not have it happen to yourself.
 
 First and foremost: Look into Autocross insurance. Lockton Motorsports provides insurance options that cover cars DURING autocross events, you should definitely [check them out](https://locktonmotorsports.com/autocross-off-track/). It is very likely that you normal street car insurance policy will NOT cover you, and you asking them if they do may even cause red flags to be raised. I did NOT have autocross insurance on my 2016 Scion FR-S, even though I had looked into it a couple of weeks before the incident, I didn't pull the trigger (if memory serves, it was like $225 for the year for my car), and would have likely made 2021 not be near as bad as it ended up. 
