@@ -14,7 +14,7 @@ First and foremost: Look into Autocross insurance. Lockton Motorsports provides 
 
 ### I will not autocross a car again if it doesn't have autocross insurance, I don't care who owns the car, lesson (hard) learned.
 
-So what happened? Well, this incident occurred this summer. I had taken my third run and put down a scorcher, my codriver went out and took his third or fourth run (don't recall). I was standing next to a buddy of mine trying to watch the run when I saw the car get tail happy, due to where I was standing in grid I couldn't really see the car/course at that point other than the top. The car came to a stop and I thought, "oh he just lost control and stopped". Shortly there after I heard a request for any first responders over the PA, I immediately knew something was wrong. I ran over to where the car was stopped, as I was on my way over I saw a course worker picking something up, I assumed it was a GoPro that had fallen off the car.
+So what happened? Well, this incident occurred this summer. I had taken my third run and put down a scorcher, my codriver went out and took his third or fourth run (don't recall). I was standing next to a buddy of mine trying to watch the run when I saw the car get tail happy, due to where I was standing in grid I couldn't really see the car/course very well. The car came to a stop and I thought, "oh he just lost control and stopped". Shortly there after I heard a request for any first responders over the PA, I immediately knew something was wrong. I ran over to where the car was stopped, as I was on my way over I saw a course worker picking something up, I assumed it was a GoPro that had fallen off the car.
 
 It wasn't a GoPro, it was the passenger mirror, or parts of it.
 
