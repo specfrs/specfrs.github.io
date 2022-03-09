@@ -89,3 +89,5 @@ picture:
       source_default:
         width: "300"
 
+exclude:
+  - /assets/images/*
