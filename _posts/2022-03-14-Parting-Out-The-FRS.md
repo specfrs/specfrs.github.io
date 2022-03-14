@@ -19,7 +19,7 @@ Next up I will be taking the SSC suspension bits, and the nameless exhaust, and 
 Other things I need to do:
 
 * need to get to the DMV and get the lean cleared off the title so I can easily part with the car/title.
-* decide how much of what was removed will be put back on the car.
+* decide how much of what was removed will be put back on the car (front/rear bumper, lights, etc)
 
 If you're interested in any of the car, or SSC bits, let me know.
 
