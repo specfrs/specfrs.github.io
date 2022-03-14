@@ -3,7 +3,7 @@ layout: post
 title: Parting out the Scion FR-S
 date: '2022-03-14T10:30:15+00:00'
 permalink: parting-out-the-frs
-image: 03-14-2021/Side-1.jpg
+image: 03-14-2022/Side-1.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
 featured: true
 ---
