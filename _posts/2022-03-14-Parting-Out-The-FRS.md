@@ -21,3 +21,6 @@ Other things I need to do:
 * need to get to the DMV and get the lean cleared off the title so I can easily part with the car/title.
 * decide how much of what was removed will be put back on the car.
 
+If you're interested in any of the car, or SSC bits, let me know.
+
+Car is located in Wildwood Missouri, just outside of St. Louis. The motor has less than 45k miles on it and runs great.
