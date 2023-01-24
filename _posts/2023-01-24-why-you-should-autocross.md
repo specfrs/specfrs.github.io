@@ -9,7 +9,7 @@ image: 01-24-2023/autocross-1.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident, Supplies, Gear, St. Louis ]
 featured: true
 ---
-Autocross is an exciting and challenging motorsport that is quickly gaining popularity among car enthusiasts. It is a competitive event where drivers navigate a course that is laid out on a large parking lot or closed-off airfield. The objective is to complete the course in the fastest time possible, while navigating tight turns, hairpin bends, and other obstacles.
+Autocross is an exciting and challenging motorsport that is quickly gaining popularity among car enthusiasts. It is a competitive event where drivers navigate a course that is laid out on a large parking lot or closed-off airfield. The objective is to complete the course in the fastest time possible, while navigating tight turns, hairpin bends, and [other obstacles](https://www.specfrs.com/autocross-accident-why-you-need-autocross-insurance).
 
 One of the best things about autocross is that it is accessible to a wide range of drivers. Whether you are a seasoned pro or a beginner, there is a class for you. This means that you can compete against drivers of similar skill levels, which makes for a fair and enjoyable competition.
 
