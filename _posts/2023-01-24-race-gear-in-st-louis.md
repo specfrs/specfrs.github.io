@@ -1,6 +1,7 @@
 ---
 layout: post
-title: One Year Later
+title: Race Gear in St. Louis Missouri
+description: Finding Racing supplies and gear in St. Louis Missouri
 date: '2023-01-24T10:00:15+00:00'
 permalink: race-gear-in-st-louis
 image: 01-24-2023/racegear-1.jpg
