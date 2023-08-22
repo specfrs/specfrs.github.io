@@ -5,7 +5,7 @@ description: "2016 Scion FR-S campaigning in the SCCA Solo Spec Coupe autocross 
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: 'UA-69145-47'
+google_analytics: 'G-GBGTXLKGBQ'
 disqus: specfrs
 mailchimp-list: 
 include: ["_pages"]
