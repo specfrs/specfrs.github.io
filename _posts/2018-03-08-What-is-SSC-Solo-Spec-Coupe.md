@@ -9,6 +9,9 @@ redirect_from:
   - "/blog/What-is-SSC-Solo-Spec-Coupe"
   - "/Blog/What-is-SSC-Solo-Spec-Coupe"
   - "/Blog/aid/3"
+
+redirect_to:
+  - https://www.autocrossblog.com/what-is-ssc-solo-spec-coupe
 ---
 Solo Spec Coupe. SSC. The next big thing in SCCA Autocross.
 
