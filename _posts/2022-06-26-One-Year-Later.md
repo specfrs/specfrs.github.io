@@ -6,6 +6,8 @@ permalink: one-year-later
 image: 6-27-2022/LightPole-1.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
 featured: false
+redirect_to:
+  - https://www.autocrossblog.com/one-year-later
 ---
 
 I realized a couple of days ago that it had been 12 months since the FR-S met its unfortunate demise. 

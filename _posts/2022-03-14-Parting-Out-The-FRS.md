@@ -6,6 +6,8 @@ permalink: parting-out-the-frs
 image: 3-14-2022/Side-1.jpg
 categories: [ Autocross, FR-S, SSC, Setup, Accident ]
 featured: false
+redirect_to:
+  - https://www.autocrossblog.com/parting-out-the-frs
 ---
 
 The time has finally come, time that I finally have, to try to start getting the 2016 Scion FR-S parted out.
