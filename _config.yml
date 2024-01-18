@@ -1,7 +1,7 @@
 # Site
 name: "SpecFRS.com"
 title: "SpecFRS.com - Solo Spec Coupe 2016 Scion FR-S"
-description: "Site has moved to [AutocrossBlog.com](https://www.autocrossblog.com)"
+description: 'Site has moved to <a href="https://www.autocrossblog.com">AutocrossBlog.com</a>'
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
