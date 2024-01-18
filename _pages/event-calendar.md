@@ -4,7 +4,7 @@ title: BicycleTips.com event-calendar
 permalink: /event-calendar
 comments: false
 ---
-
+Site has moved to [AutocrossBlog.com](https://www.autocrossblog.com)
 
 Here you will find a list of events that BicycleTips.com thinks you might be interested in! This is not a comprehensive list of all events across the country, or even events in the Mid West, but it does contain events that we think our readers, and our writers, will likely want to take part in. 
 

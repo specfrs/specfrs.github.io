@@ -8,6 +8,8 @@ redirect_from:
   - "/Results"
 ---
 
+# Site has moved to [AutocrossBlog.com](https://www.autocrossblog.com)
+
 {% picture jumbotron.jpg %}
 A 2016 Scion FR-S campaigned by [Chris Hammond](https://www.chrishammond.com)
 
