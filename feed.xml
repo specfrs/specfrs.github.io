@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SpecFRS.com - Solo Spec Coupe 2016 Scion FR-S</title>
-    <description>Site has moved to [AutocrossBlog.com](https://www.autocrossblog.com)</description>
+    <description>Site has moved to &lt;a href=&quot;https://www.autocrossblog.com&quot;&gt;AutocrossBlog.com&lt;/a&gt;</description>
     <link>https://www.specfrs.com/</link>
     <atom:link href="https://www.specfrs.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jan 2024 16:05:06 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jan 2024 16:05:06 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 16:08:10 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 16:08:10 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
